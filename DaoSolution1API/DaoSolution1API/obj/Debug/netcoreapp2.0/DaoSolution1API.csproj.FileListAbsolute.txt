@@ -1,0 +1,11 @@
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.csprojResolveAssemblyReference.cache
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.csproj.CoreCompileInputs.cache
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.AssemblyInfoInputs.cache
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.AssemblyInfo.cs
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\bin\Debug\netcoreapp2.0\DaoSolution1API.deps.json
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\bin\Debug\netcoreapp2.0\DaoSolution1API.runtimeconfig.json
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\bin\Debug\netcoreapp2.0\DaoSolution1API.runtimeconfig.dev.json
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\bin\Debug\netcoreapp2.0\DaoSolution1API.dll
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\bin\Debug\netcoreapp2.0\DaoSolution1API.pdb
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.dll
+E:\Interning\ASPdotNET\workspace\DaoSolution1API\DaoSolution1API\obj\Debug\netcoreapp2.0\DaoSolution1API.pdb
